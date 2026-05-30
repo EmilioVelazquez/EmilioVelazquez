@@ -1,24 +1,151 @@
-# 💫 About Me:
-🔭 I’m currently working on refining logic and effectiveness in complex problem-solving to ensure optimal outcomes.<br><br>👯 I’m looking to collaborate on projects that prioritize evidence-based reasoning and rigorous research.<br><br>🤝 I’m looking for help with honest feedback and critical pushback to help me maintain high intellectual rigour.<br><br>🌱 I’m currently learning advanced methodologies for double-checking facts and conducting effective research.<br><br>💬 Ask me about the metric system, logical consistency, and the value of skepticism.<br><br>⚡ Fun fact I find a well-reasoned critique far more satisfying than an unearned compliment.
+# Hi, I'm Emilio Velázquez 👋
+### DevOps Engineer & Infrastructure Analyst
 
+Based in **Asunción, Paraguay**, I specialize in designing, automating, and securing critical self-hosted and cloud infrastructure.
 
-# 💻 Tech Stack:
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emiliovelazquez&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=emiliovelazquez&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliovelazquez&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emiliovelazquez&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emiliovelazquez&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[🌐 Portfolio Website](https://gateway.cosmoslabs.work/) • [💼 LinkedIn Profile](https://linkedin.com/in/emiliovlz) • [✉️ Email Me](mailto:emilio.velazquez@cosmoslabs.work)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=emiliovelazquez&icon=10&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+I'm a Systems and Infrastructure Engineer transitioning to DevOps. I have hands-on experience managing mission-critical enterprise environments, including core financial platform migrations and identity-based network access controls. I specialize in designing, automating, and securing self-hosted infrastructure using modern methodologies like GitOps, containerization, and Infrastructure as Code (IaC).
+
+- 🔭 **Current Role**: Infrastructure Analyst at **Bolsa de Valores de Asunción** (Paraguay Stock Exchange), where I played a key technical role migrating core systems to a Nasdaq-powered trading platform.
+- 🎓 **Education**: Studying Computer Engineering (*Ing. en Informática*) at **Universidad Autónoma de Asunción** (2019 – Present).
+- 💬 **Ask me about**: Self-hosting, homelabs, container security, network hardening, or Zero Trust architecture.
+- ⚡ **Fun Fact**: I find a well-reasoned critique far more satisfying than an unearned compliment.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & Virtualization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Automation & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0F0F?style=flat-square&logo=ansible&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Networking & Security** | ![Zero Trust](https://img.shields.io/badge/Zero_Trust-000000?style=flat-square&logo=security&logoColor=white) `802.1X` `MAB` `IPSec VPN` `BGP` `OSPF` `EDR` `WAF` `IDS/IPS` |
+| **Web Servers & Databases** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Caddy](https://img.shields.io/badge/Caddy-00AD9F?style=flat-square&logo=caddyserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MS SQL Server](https://img.shields.io/badge/MSSQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Monitoring & Home Lab** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white) |
+
+---
+
+### 📂 Featured Project: [Self-Hosted DevOps Portfolio](https://gateway.cosmoslabs.work/)
+A highly available, secure portfolio website architected with strict security hardening and modern CI/CD GitOps practices.
+
+#### ⚙️ Continuous Delivery Pipeline
+```mermaid
+graph LR
+    A["GitHub Push"] --> B["GitHub Actions"]
+    B --> C["Docker Build\n(Multi-stage)"]
+    C --> D["GitHub\nContainer Registry (GHCR)"]
+    D --> E["SSH Deploy\nto OCI"]
+    E --> F["Live Site"]
+    style A fill:#a6e3a1,color:#1e1e2e,stroke:#1e1e2e
+    style B fill:#cba6f7,color:#1e1e2e,stroke:#1e1e2e
+    style C fill:#89b4fa,color:#1e1e2e,stroke:#1e1e2e
+    style D fill:#fab387,color:#1e1e2e,stroke:#1e1e2e
+    style E fill:#f5c2e7,color:#1e1e2e,stroke:#1e1e2e
+    style F fill:#94e2d5,color:#1e1e2e,stroke:#1e1e2e
+```
+
+#### 🌐 Deployment Topology
+```mermaid
+graph TB
+    User["Visitor"]
+
+    subgraph CF_Edge["Cloudflare Edge"]
+        WAF["WAF & DNS"]
+    end
+
+    subgraph OCI["Oracle Cloud Infrastructure (OCI)"]
+        FW["OCI Firewall\n(Ingress: Port 443 Only)"]
+        subgraph Docker_Net["Docker Network: web-bridge"]
+            CADDY["Caddy Reverse Proxy\n(Ports 80 / 443)"]
+            NGINX["Nginx Container\n(Frontend Site)"]
+            PROXY["contact-proxy\n(Go Sidecar - Port 3000)"]
+        end
+    end
+
+    subgraph Home_Lab["Home Proxmox"]
+        NTFY["ntfy Container\n(Self-hosted Server)"]
+    end
+
+    Phone["Mobile Device"]
+
+    User -->|HTTPS: 443| WAF
+    WAF -->|Proxy Traffic| FW
+    FW -->|Forward to Host| CADDY
+
+    CADDY -->|Route Static Assets| NGINX
+    CADDY -->|Route /api/contact| PROXY
+
+    PROXY -->|POST Request via Private VPN| NTFY
+    NTFY -->|Push Notification| Phone
+
+    style User fill:#a6e3a1,color:#1e1e2e,stroke:#1e1e2e
+    style WAF fill:#fab387,color:#1e1e2e,stroke:#1e1e2e
+    style FW fill:#f38ba8,color:#1e1e2e,stroke:#1e1e2e
+    style CADDY fill:#74c7ec,color:#1e1e2e,stroke:#1e1e2e
+    style NGINX fill:#89b4fa,color:#1e1e2e,stroke:#1e1e2e
+    style PROXY fill:#a6e3a1,color:#1e1e2e,stroke:#1e1e2e
+    style NTFY fill:#cba6f7,color:#1e1e2e,stroke:#1e1e2e
+    style Phone fill:#f5c2e7,color:#1e1e2e,stroke:#1e1e2e
+
+    style CF_Edge fill:#1e1e2e,stroke:#fab387,stroke-dasharray: 5 5,color:#cdd6f4
+    style OCI fill:#181825,stroke:#94e2d5,color:#cdd6f4
+    style Docker_Net fill:#11111b,stroke:#a6adc8,stroke-dasharray: 3 3,color:#a6adc8
+    style Home_Lab fill:#1e1e2e,stroke:#f5c2e7,color:#cdd6f4
+
+    linkStyle default stroke:#cba6f7,stroke-width:2px;
+```
+
+#### 🔒 Security Architecture
+* **Container Hardening**: Frontend is powered by `nginx:alpine` (~25MB) and the Go backend sidecar `contact-proxy` (~8MB) runs on `distroless/static` with non-root execution and read-only filesystems.
+* **Network Defense**: Strictly restricted OCI security list, Cloudflare Proxy (DDoS protection), Strict Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), 3-layer rate limiting (10 req/min), and honeypot validation for spam defense.
+
+---
+
+### 💼 Professional Experience
+
+#### **Infrastructure Analyst** @ Bolsa de Valores de Asunción *(2025 - Present)*
+* Played a key technical role in the migration of the organization's core systems to a **Nasdaq-powered trading platform**.
+* Architected and implemented a dynamic identity-based **Network Access Control (NAC)** system utilizing **802.1X** and **MAB** protocols.
+* Migrated legacy systems to modern virtualized infrastructure using **Docker containerization** across hybrid environments.
+* Designed and implemented automated **CI/CD pipelines** to streamline deployment processes.
+* Administered IPSec VPNs, firewall policies, and network segmentation following **Zero Trust principles**.
+* Deployed and managed **monitoring and alerting solutions** to ensure high availability and performance of critical systems.
+
+#### **IT Coordinator** @ Club Centenario *(2023 - 2025)*
+* Deployed and administered centralized security solutions including **EDR, WAF, and IDS/IPS systems**.
+* Managed complex networks and oversaw the end-to-end lifecycle of internal IT infrastructure (150+ endpoints).
+* Implemented automated backup and disaster recovery procedures ensuring business continuity.
+* Administered relational databases and maintained continuous monitoring and alerting systems.
+
+#### **IT Assistant** @ Club Centenario *(2021 - 2022)*
+* Performed critical corrective and preventive hardware maintenance.
+* Provided comprehensive Tier-1 support for organizational staff.
+
+---
+
+### 🏆 Credentials & Certifications
+* **EF SET Certificate (C2 Proficient)** — Issued by EF SET (April 2025)
+* **Microsoft Certified: Security, Compliance, and Identity Fundamentals** (October 2024)
+* **Microsoft Certified: Azure Fundamentals** (August 2024)
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=emiliovelazquez&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://nirzak-streak-stats.vercel.app/?user=emiliovelazquez&theme=catppuccin_mocha&hide_border=false)
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliovelazquez&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  ![](https://github-profile-trophy.vercel.app/?username=emiliovelazquez&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+<!-- Proudly created with love and refined manually -->
