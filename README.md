@@ -133,19 +133,4 @@ graph TB
 * **Microsoft Certified: Azure Fundamentals** (August 2024)
 
 ---
-
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=emiliovelazquez&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://nirzak-streak-stats.vercel.app/?user=emiliovelazquez&theme=catppuccin_mocha&hide_border=false)
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliovelazquez&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  ![](https://github-profile-trophy.vercel.app/?username=emiliovelazquez&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
 <!-- Proudly created with love and refined manually -->
